@@ -1,3 +1,4 @@
-ceva
 modificari remote
 have fun
+
+am facut modificari locale
